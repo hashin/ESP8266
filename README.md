@@ -21,7 +21,12 @@ A collection of resources available about ESP8266 online. Keep contributing!
 - [Arduino+OLED through I2C](https://hackaday.io/project/6132-esp8266oled)
 - [Weather Station](http://www.instructables.com/id/ESP8266-Weather-Station-with-Arduino-1-Hardware/)
 - [Li-Ion battery monitor](http://www.instructables.com/id/ESP8266-Li-Ion-Battery-rechargeable-battery-power-/)
-
+- [Smart meter](http://hackaday.com/2014/11/02/an-esp8266-based-smartmeter/)
+- [Email Checker](http://hackaday.com/2014/11/03/checking-email-with-the-esp8266/)
+- [Temperature Logger](http://www.instructables.com/id/ESP8266-Wifi-Temperature-Logger/)
+- [With Neopexels](http://www.instructables.com/id/ESP8266-with-Neopixeles/)
+- [Wi-Fi Touch Screen Thermostat](http://www.instructables.com/id/ESP8266-WiFi-touch-screen-thermostat/)
+- [Apple watch VLC Controller](http://www.instructables.com/id/DIY-Apple-watch-VLC-controller-with-ESP8266-Arduin/)
 
 
 ## Buying Options.
