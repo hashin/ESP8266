@@ -27,6 +27,7 @@ A collection of resources available about ESP8266 online. Keep contributing!
 - [With Neopexels](http://www.instructables.com/id/ESP8266-with-Neopixeles/)
 - [Wi-Fi Touch Screen Thermostat](http://www.instructables.com/id/ESP8266-WiFi-touch-screen-thermostat/)
 - [Apple watch VLC Controller](http://www.instructables.com/id/DIY-Apple-watch-VLC-controller-with-ESP8266-Arduin/)
+- [Wi-Fi MQTT Display](http://nathan.chantrell.net/20141230/wifi-mqtt-display-with-the-esp8266/)
 
 
 ## Buying Options.
