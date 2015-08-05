@@ -30,6 +30,11 @@ A collection of resources available about ESP8266 online. Keep contributing!
 - [Wi-Fi MQTT Display](http://nathan.chantrell.net/20141230/wifi-mqtt-display-with-the-esp8266/)
 
 
+## Libraries.
+-[Arduino IDE](https://github.com/sandeepmistry/esp8266-Arduino)
+
+
+
 ## Buying Options.
 (If you are adding more, please try to add in the order of increasing price.)
 
