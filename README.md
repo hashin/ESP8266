@@ -5,6 +5,9 @@ A collection of resources available about ESP8266 online. Keep contributing!
 - [Expressif](https://docs.google.com/file/d/0B9hyK_DA6VIiSWNRZ29sdG1UOVU/edit?pli=1)
 
 ## Tutorials
+
+- [A Simple Introduction](http://esp8266.co.uk/tutorials)
+- [Start programming directly!](http://hackaday.com/2015/03/18/how-to-directly-program-an-inexpensive-esp8266-wifi-module/)
 - [Serial to Wi-Fi Tutorial](http://fab.cba.mit.edu/classes/863.14/tutorials/Programming/serialwifi.html)
 - [AT Commands](https://nurdspace.nl/ESP8266#AT_Commands)
 - [General Introduction by Instructables](http://www.instructables.com/id/Using-the-ESP8266-module/?ALLSTEPS)
@@ -15,8 +18,6 @@ A collection of resources available about ESP8266 online. Keep contributing!
 
 ## Projects.
 
-- [A Simple Introduction](http://esp8266.co.uk/tutorials)
-- [Start programming directly!](http://hackaday.com/2015/03/18/how-to-directly-program-an-inexpensive-esp8266-wifi-module/)
 - [ESP8266 I2C OLED](https://github.com/costonisp/ESP8266-I2C-OLED)
 - [Live battery monitor](http://www.esp8266-projects.com/2015/05/battery-live-monitor-system-esp8266.html)
 - [Battery Monitor System](http://www.instructables.com/id/WIFI-Battery-Monitor-System-ESP8266/?ALLSTEPS)
