@@ -15,6 +15,7 @@ A collection of resources available about ESP8266 online. Keep contributing!
 
 ## Projects.
 
+- [A Simple Introduction](http://esp8266.co.uk/tutorials)
 - [Start programming directly!](http://hackaday.com/2015/03/18/how-to-directly-program-an-inexpensive-esp8266-wifi-module/)
 - [ESP8266 I2C OLED](https://github.com/costonisp/ESP8266-I2C-OLED)
 - [Live battery monitor](http://www.esp8266-projects.com/2015/05/battery-live-monitor-system-esp8266.html)
