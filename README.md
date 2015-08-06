@@ -1,8 +1,6 @@
 # ESP8266
 A collection of resources available about ESP8266 online. Keep contributing!
 
-## Datasheets
-- [Expressif](https://docs.google.com/file/d/0B9hyK_DA6VIiSWNRZ29sdG1UOVU/edit?pli=1)
 
 ## Tutorials
 
